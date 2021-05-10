@@ -1,0 +1,54 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+body{
+    margin: 35px;
+    font-size: Nunito,sans-serif;
+    background-image: url(/images/jonathan-bowers-BqKdvJ8a5TI-unsplash\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  
+}
+.input{
+
+    text-align: center;
+    
+}
+
+
+
+input[type="text"]{
+    height: 50px;
+    width: 600px;
+    background: #e7e7e7;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20px;
+    border:white;
+    border-radius: 2px;
+    padding: 10px 10px;
+
+  
+
+
+
+}
+input[type="submit"]{
+     height: 50px;
+    width: 100px;
+    background: #e7e7e7;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    border-radius: 2px;
+   
+
+}
+.display{
+    text-align: center;
+
+} 
